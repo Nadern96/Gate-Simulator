@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Logic Simulator", "Logic Simulator\Logic Simulator.vcxproj", "{7EA2A5C2-D543-42EB-91F4-813F0E52630A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA2A5C2-D543-42EB-91F4-813F0E52630A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7EA2A5C2-D543-42EB-91F4-813F0E52630A}.Debug|Win32.Build.0 = Debug|Win32
+		{7EA2A5C2-D543-42EB-91F4-813F0E52630A}.Release|Win32.ActiveCfg = Release|Win32
+		{7EA2A5C2-D543-42EB-91F4-813F0E52630A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
